@@ -1,4 +1,4 @@
-package com.bilel.firstApp.enumerer;
+package com.bilel.eCommerce.enumerer;
 
 public enum TProduit {
 MOBILE,ORDINATEUR

@@ -1,8 +1,8 @@
-package repository;
+package com.bilel.eCommerce.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.bilel.firstApp.entites.Panier;
+import com.bilel.eCommerce.entites.Panier;
 
 public interface PanierRepository extends JpaRepository<Panier, Long>{
 
